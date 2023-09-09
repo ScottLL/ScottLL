@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm an AI developer, Blockchain Researcher, and Data Scientist.<br>Currently working on voice recognition model and IPFS development.<br><br>Study @ Duke MIDS
-
+ 
 
 ## 🌐 Socials:
 [![Scottlai.me](https://img.shields.io/badge/PersonalWebsite-Scottlai.me-blue)](https://scottlai.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/scottlaiq) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCwsiZcdZRt5_fgeUdR9Nezg) 
