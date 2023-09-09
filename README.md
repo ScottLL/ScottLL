@@ -12,9 +12,7 @@ I'm an AI developer, Blockchain Researcher, and Data Scientist.<br>Currently wor
 
 GitHub Stats               |  Top Langs                |  Top Langs                   |
 :-------------------------:|:-------------------------:|:----------------------------:|
-[![Scott's Github Stats](https://github-readme-stats.vercel.app/api?username=ScottLL&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/ScottLL) |
-[![](https://github-readme-streak-stats.herokuapp.com/?user=ScottLL&theme=dark&hide_border=false)]() |
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ScottLL&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/ScottLL/github-readme-stats)
+[![Scott's Github Stats](https://github-readme-stats.vercel.app/api?username=ScottLL&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/ScottLL) | [![](https://github-readme-streak-stats.herokuapp.com/?user=ScottLL&theme=dark&hide_border=false)]() | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ScottLL&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/ScottLL/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ScottLL&icon=5&color=1)](https://visitcount.itsvg.in)
