@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an AI developer, Blockchain Researcher, and Data Scientist.<br>Currently working on voice recognition model and IPFS development.<br><br>Study @ Duke MIDS
+I'm an AI developer, Blockchain Researcher, and Data Scientist.<br>Currently working on LLM deployment using Rust Candle.<br><br>Study @ Duke MIDS
  
 
 ## 🌐 Socials:
