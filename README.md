@@ -24,7 +24,8 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a AI developer and data scientist from <b>ScholarAI</b> 」<br>
+    「 I am a software developer and data scientist from <b>ScholarAI</b> 」<br>
+   「  AI engineering from <b>DeAP Learning Lab</b> 」<br>
     「Student @ <b src="https://datascience.duke.edu/">Duke MIDS</b>」<br>
     「Currently working on LLM deployment using Rust Candle」
     <br>
