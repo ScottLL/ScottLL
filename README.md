@@ -24,10 +24,10 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a software developer and data scientist from <b>ScholarAI</b> 」<br>
-   「  AI engineering from <b>DeAP Learning Lab</b> 」<br>
+    「 I am founder software developer and data scientist @ <b>ScholarAI</b> 」<br>
+   「  AI engineering @ <b>DeAP Learning Lab</b> 」<br>
     「Student @ <b src="https://datascience.duke.edu/">Duke MIDS</b>」<br>
-    「Currently working on LLM deployment using Rust Candle」
+    「Currently working on Local LLM and AutoGen」
     <br>
     <br>
   </samp>
